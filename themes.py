@@ -1,0 +1,20 @@
+themes = {
+    "Cyber Red": "echo -e '\\e]10;rgb:ff/00/00\\a' && echo -e '\\e]11;rgb:00/00/00\\a'",
+    "Neo Tokyo": "echo -e '\\e]10;rgb:bb/9a/ff\\a' && echo -e '\\e]11;rgb:1a/1b/26\\a'",
+    "Stealth Black": "echo -e '\\e]10;rgb:00/ff/00\\a' && echo -e '\\e]11;rgb:00/00/00\\a'",
+    "Midnight Blue": "echo -e '\\e]10;rgb:88/c0/d0\\a' && echo -e '\\e]11;rgb:1b/2b/34\\a'",
+    "Glitch Purple": "echo -e '\\e]10;rgb:ff/00/ff\\a' && echo -e '\\e]11;rgb:11/11/22\\a'",
+    "Neon Green": "echo -e '\\e]10;rgb:00/ff/00\\a' && echo -e '\\e]11;rgb:00/20/00\\a'",
+    "Deep Ocean": "echo -e '\\e]10;rgb:00/cc/ff\\a' && echo -e '\\e]11;rgb:00/00/33\\a'",
+    "Blood Moon": "echo -e '\\e]10;rgb:ff/66/00\\a' && echo -e '\\e]11;rgb:22/00/00\\a'",
+    "Vaporwave": "echo -e '\\e]10;rgb:ff/cc/d4\\a' && echo -e '\\e]11;rgb:2a/2a/4f\\a'",
+    "Ghost White": "echo -e '\\e]10;rgb:ee/ee/ee\\a' && echo -e '\\e]11;rgb:22/22/22\\a'",
+    "Sunset Glow": "echo -e '\\e]10;rgb:ff/a5/00\\a' && echo -e '\\e]11;rgb:00/00/00\\a'",
+    "Autumn Breeze": "echo -e '\\e]10;rgb:ff/8c/00\\a' && echo -e '\\e]11;rgb:1a/1a/1a\\a'",
+    "Electric Blue": "echo -e '\\e]10;rgb:00/00/ff\\a' && echo -e '\\e]11;rgb:00/00/33\\a'",
+    "Moonlit Night": "echo -e '\\e]10;rgb:87/ce/fa\\a' && echo -e '\\e]11;rgb:1a/1a/2b\\a'",
+    "Snowfall": "echo -e '\\e]10;rgb:ff/ff/ff\\a' && echo -e '\\e]11;rgb:00/00/00\\a'",
+    "Firefly": "echo -e '\\e]10;rgb:ff/ea/00\\a' && echo -e '\\e]11;rgb:1a/1a/14\\a'",
+    "Tech Blue": "echo -e '\\e]10;rgb:00/75/ff\\a' && echo -e '\\e]11;rgb:1b/1b/2a\\a'",
+    "Purple Haze": "echo -e '\\e]10;rgb:6a/0e/99\\a' && echo -e '\\e]11;rgb:00/00/33\\a'"
+}
